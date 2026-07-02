@@ -2,6 +2,8 @@
 - صالح صابر محمد الزاملي
 salehalzamly1996@gmail.com - 
 رقم جامعي: 1320252232 
+## Demo video
+[Watch the demo video](SlaehElzamly-1320252232-SimpleDiciontry.mkv)
 
 # SimpleDictionary
 
@@ -38,4 +40,3 @@ This is a simple Android dictionary app made using **Java and XML**.
 2. Wait for Gradle sync to finish.
 3. Run the app on an emulator or real Android phone.
 
-## Demo video
