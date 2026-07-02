@@ -3,8 +3,8 @@
 salehalzamly1996@gmail.com - 
 رقم جامعي: 1320252232 
 ## Demo video
-[Watch the demo video](SlaehElzamly-1320252232-SimpleDiciontry.mp4)
-
+[فيديو الشرح](SlaehElzamly-1320252232-SimpleDiciontry.mp4)
+حاولت اظهر الفيديو في الreadme هنا لكن لم يزبط, اضغط على الفيديو و نزله للعرض
 # SimpleDictionary
 
 This is a simple Android dictionary app made using **Java and XML**.
