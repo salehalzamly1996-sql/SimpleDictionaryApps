@@ -3,7 +3,7 @@
 salehalzamly1996@gmail.com - 
 رقم جامعي: 1320252232 
 ## Demo video
-[Watch the demo video](SlaehElzamly-1320252232-SimpleDiciontry.mkv)
+[Watch the demo video](SlaehElzamly-1320252232-SimpleDiciontry.mp4)
 
 # SimpleDictionary
 
